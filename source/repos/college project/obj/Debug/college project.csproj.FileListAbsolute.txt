@@ -1,0 +1,376 @@
+C:\Users\ACER\source\repos\college project\college project\bin\college project.dll.config
+C:\Users\ACER\source\repos\college project\college project\bin\college project.dll
+C:\Users\ACER\source\repos\college project\college project\bin\college project.pdb
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\csc.exe
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\csc.exe.config
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\csc.rsp
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\csi.exe
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\csi.exe.config
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\csi.rsp
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.Console.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.Net.Http.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\vbc.exe
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\vbc.exe.config
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\vbc.rsp
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\source\repos\college project\college project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\source\repos\college project\college project\obj\Debug\college project.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\college project\college project\obj\Debug\college project.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\college project\college project\obj\Debug\college project.csproj.CopyComplete
+C:\Users\ACER\source\repos\college project\college project\obj\Debug\college project.dll
+C:\Users\ACER\source\repos\college project\college project\obj\Debug\college project.pdb
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.AI.Web.dll
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\ACER\source\repos\college project\college project\bin\System.Buffers.dll
+C:\Users\ACER\source\repos\college project\college project\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\source\repos\college project\college project\bin\System.Memory.dll
+C:\Users\ACER\source\repos\college project\college project\bin\System.Numerics.Vectors.dll
+C:\Users\ACER\source\repos\college project\college project\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.AI.DependencyCollector.pdb
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.AI.PerfCounterCollector.pdb
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.AI.ServerTelemetryChannel.pdb
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.AI.Web.pdb
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.AI.Web.xml
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.AI.WindowsServer.pdb
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.ApplicationInsights.pdb
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\ACER\source\repos\college project\college project\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\ACER\source\repos\college project\college project\bin\System.Buffers.xml
+C:\Users\ACER\source\repos\college project\college project\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ACER\source\repos\college project\college project\bin\System.Memory.xml
+C:\Users\ACER\source\repos\college project\college project\bin\System.Numerics.Vectors.xml
+C:\Users\ACER\source\repos\college project\college project\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Code\source\repos\college project\bin\college project.dll.config
+D:\Code\source\repos\college project\bin\college project.dll
+D:\Code\source\repos\college project\bin\college project.pdb
+D:\Code\source\repos\college project\bin\roslyn\csc.exe
+D:\Code\source\repos\college project\bin\roslyn\csc.exe.config
+D:\Code\source\repos\college project\bin\roslyn\csc.rsp
+D:\Code\source\repos\college project\bin\roslyn\csi.exe
+D:\Code\source\repos\college project\bin\roslyn\csi.exe.config
+D:\Code\source\repos\college project\bin\roslyn\csi.rsp
+D:\Code\source\repos\college project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Code\source\repos\college project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code\source\repos\college project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Code\source\repos\college project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Code\source\repos\college project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Code\source\repos\college project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Code\source\repos\college project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Code\source\repos\college project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Code\source\repos\college project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Code\source\repos\college project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Code\source\repos\college project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Code\source\repos\college project\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Code\source\repos\college project\bin\roslyn\System.AppContext.dll
+D:\Code\source\repos\college project\bin\roslyn\System.Collections.Immutable.dll
+D:\Code\source\repos\college project\bin\roslyn\System.Console.dll
+D:\Code\source\repos\college project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Code\source\repos\college project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Code\source\repos\college project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Code\source\repos\college project\bin\roslyn\System.Globalization.Calendars.dll
+D:\Code\source\repos\college project\bin\roslyn\System.IO.Compression.dll
+D:\Code\source\repos\college project\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Code\source\repos\college project\bin\roslyn\System.IO.FileSystem.dll
+D:\Code\source\repos\college project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Code\source\repos\college project\bin\roslyn\System.Net.Http.dll
+D:\Code\source\repos\college project\bin\roslyn\System.Net.Sockets.dll
+D:\Code\source\repos\college project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Code\source\repos\college project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Code\source\repos\college project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Code\source\repos\college project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Code\source\repos\college project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Code\source\repos\college project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Code\source\repos\college project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Code\source\repos\college project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Code\source\repos\college project\bin\roslyn\System.ValueTuple.dll
+D:\Code\source\repos\college project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Code\source\repos\college project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Code\source\repos\college project\bin\roslyn\System.Xml.XPath.dll
+D:\Code\source\repos\college project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Code\source\repos\college project\bin\roslyn\vbc.exe
+D:\Code\source\repos\college project\bin\roslyn\vbc.exe.config
+D:\Code\source\repos\college project\bin\roslyn\vbc.rsp
+D:\Code\source\repos\college project\bin\roslyn\VBCSCompiler.exe
+D:\Code\source\repos\college project\bin\roslyn\VBCSCompiler.exe.config
+D:\Code\source\repos\college project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Code\source\repos\college project\bin\Microsoft.AI.DependencyCollector.dll
+D:\Code\source\repos\college project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Code\source\repos\college project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Code\source\repos\college project\bin\Microsoft.AI.Web.dll
+D:\Code\source\repos\college project\bin\Microsoft.AI.WindowsServer.dll
+D:\Code\source\repos\college project\bin\Microsoft.ApplicationInsights.dll
+D:\Code\source\repos\college project\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Code\source\repos\college project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Code\source\repos\college project\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+D:\Code\source\repos\college project\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+D:\Code\source\repos\college project\bin\System.Buffers.dll
+D:\Code\source\repos\college project\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Code\source\repos\college project\bin\System.Memory.dll
+D:\Code\source\repos\college project\bin\System.Numerics.Vectors.dll
+D:\Code\source\repos\college project\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code\source\repos\college project\bin\Microsoft.AI.DependencyCollector.pdb
+D:\Code\source\repos\college project\bin\Microsoft.AI.DependencyCollector.xml
+D:\Code\source\repos\college project\bin\Microsoft.AI.PerfCounterCollector.pdb
+D:\Code\source\repos\college project\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\Code\source\repos\college project\bin\Microsoft.AI.ServerTelemetryChannel.pdb
+D:\Code\source\repos\college project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Code\source\repos\college project\bin\Microsoft.AI.Web.pdb
+D:\Code\source\repos\college project\bin\Microsoft.AI.Web.xml
+D:\Code\source\repos\college project\bin\Microsoft.AI.WindowsServer.pdb
+D:\Code\source\repos\college project\bin\Microsoft.AI.WindowsServer.xml
+D:\Code\source\repos\college project\bin\Microsoft.ApplicationInsights.pdb
+D:\Code\source\repos\college project\bin\Microsoft.ApplicationInsights.xml
+D:\Code\source\repos\college project\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Code\source\repos\college project\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+D:\Code\source\repos\college project\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+D:\Code\source\repos\college project\bin\System.Buffers.xml
+D:\Code\source\repos\college project\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Code\source\repos\college project\bin\System.Memory.xml
+D:\Code\source\repos\college project\bin\System.Numerics.Vectors.xml
+D:\Code\source\repos\college project\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Code\source\repos\college project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Code\source\repos\college project\obj\Debug\college project.csproj.AssemblyReference.cache
+D:\Code\source\repos\college project\obj\Debug\college project.csproj.CoreCompileInputs.cache
+D:\Code\source\repos\college project\obj\Debug\college project.csproj.CopyComplete
+D:\Code\source\repos\college project\obj\Debug\college project.dll
+D:\Code\source\repos\college project\obj\Debug\college project.pdb
+D:\Code\azure project\source\repos\college project\bin\college project.dll.config
+D:\Code\azure project\source\repos\college project\bin\college project.dll
+D:\Code\azure project\source\repos\college project\bin\college project.pdb
+D:\Code\azure project\source\repos\college project\bin\roslyn\csc.exe
+D:\Code\azure project\source\repos\college project\bin\roslyn\csc.exe.config
+D:\Code\azure project\source\repos\college project\bin\roslyn\csc.rsp
+D:\Code\azure project\source\repos\college project\bin\roslyn\csi.exe
+D:\Code\azure project\source\repos\college project\bin\roslyn\csi.exe.config
+D:\Code\azure project\source\repos\college project\bin\roslyn\csi.rsp
+D:\Code\azure project\source\repos\college project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Code\azure project\source\repos\college project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Code\azure project\source\repos\college project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Code\azure project\source\repos\college project\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.AppContext.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.Collections.Immutable.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.Console.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.Globalization.Calendars.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.IO.Compression.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.IO.FileSystem.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.Net.Http.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.Net.Sockets.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.ValueTuple.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.Xml.XPath.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Code\azure project\source\repos\college project\bin\roslyn\vbc.exe
+D:\Code\azure project\source\repos\college project\bin\roslyn\vbc.exe.config
+D:\Code\azure project\source\repos\college project\bin\roslyn\vbc.rsp
+D:\Code\azure project\source\repos\college project\bin\roslyn\VBCSCompiler.exe
+D:\Code\azure project\source\repos\college project\bin\roslyn\VBCSCompiler.exe.config
+D:\Code\azure project\source\repos\college project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Code\azure project\source\repos\college project\bin\Microsoft.AI.DependencyCollector.dll
+D:\Code\azure project\source\repos\college project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Code\azure project\source\repos\college project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Code\azure project\source\repos\college project\bin\Microsoft.AI.Web.dll
+D:\Code\azure project\source\repos\college project\bin\Microsoft.AI.WindowsServer.dll
+D:\Code\azure project\source\repos\college project\bin\Microsoft.ApplicationInsights.dll
+D:\Code\azure project\source\repos\college project\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Code\azure project\source\repos\college project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Code\azure project\source\repos\college project\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+D:\Code\azure project\source\repos\college project\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+D:\Code\azure project\source\repos\college project\bin\System.Buffers.dll
+D:\Code\azure project\source\repos\college project\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Code\azure project\source\repos\college project\bin\System.Memory.dll
+D:\Code\azure project\source\repos\college project\bin\System.Numerics.Vectors.dll
+D:\Code\azure project\source\repos\college project\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code\azure project\source\repos\college project\bin\Microsoft.AI.DependencyCollector.pdb
+D:\Code\azure project\source\repos\college project\bin\Microsoft.AI.DependencyCollector.xml
+D:\Code\azure project\source\repos\college project\bin\Microsoft.AI.PerfCounterCollector.pdb
+D:\Code\azure project\source\repos\college project\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\Code\azure project\source\repos\college project\bin\Microsoft.AI.ServerTelemetryChannel.pdb
+D:\Code\azure project\source\repos\college project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Code\azure project\source\repos\college project\bin\Microsoft.AI.Web.pdb
+D:\Code\azure project\source\repos\college project\bin\Microsoft.AI.Web.xml
+D:\Code\azure project\source\repos\college project\bin\Microsoft.AI.WindowsServer.pdb
+D:\Code\azure project\source\repos\college project\bin\Microsoft.AI.WindowsServer.xml
+D:\Code\azure project\source\repos\college project\bin\Microsoft.ApplicationInsights.pdb
+D:\Code\azure project\source\repos\college project\bin\Microsoft.ApplicationInsights.xml
+D:\Code\azure project\source\repos\college project\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Code\azure project\source\repos\college project\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+D:\Code\azure project\source\repos\college project\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+D:\Code\azure project\source\repos\college project\bin\System.Buffers.xml
+D:\Code\azure project\source\repos\college project\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Code\azure project\source\repos\college project\bin\System.Memory.xml
+D:\Code\azure project\source\repos\college project\bin\System.Numerics.Vectors.xml
+D:\Code\azure project\source\repos\college project\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Code\azure project\source\repos\college project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Code\azure project\source\repos\college project\obj\Debug\college project.csproj.AssemblyReference.cache
+D:\Code\azure project\source\repos\college project\obj\Debug\college project.csproj.CoreCompileInputs.cache
+D:\Code\azure project\source\repos\college project\obj\Debug\college project.csproj.CopyComplete
+D:\Code\azure project\source\repos\college project\obj\Debug\college project.dll
+D:\Code\azure project\source\repos\college project\obj\Debug\college project.pdb
+D:\college project\azure project\source\repos\college project\bin\college project.dll.config
+D:\college project\azure project\source\repos\college project\bin\college project.dll
+D:\college project\azure project\source\repos\college project\bin\college project.pdb
+D:\college project\azure project\source\repos\college project\bin\roslyn\csc.exe
+D:\college project\azure project\source\repos\college project\bin\roslyn\csc.exe.config
+D:\college project\azure project\source\repos\college project\bin\roslyn\csc.rsp
+D:\college project\azure project\source\repos\college project\bin\roslyn\csi.exe
+D:\college project\azure project\source\repos\college project\bin\roslyn\csi.exe.config
+D:\college project\azure project\source\repos\college project\bin\roslyn\csi.rsp
+D:\college project\azure project\source\repos\college project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\college project\azure project\source\repos\college project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\college project\azure project\source\repos\college project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\college project\azure project\source\repos\college project\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.AppContext.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.Collections.Immutable.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.Console.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.Globalization.Calendars.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.IO.Compression.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.IO.FileSystem.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.Net.Http.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.Net.Sockets.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.Reflection.Metadata.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.ValueTuple.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.Xml.XPath.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\college project\azure project\source\repos\college project\bin\roslyn\vbc.exe
+D:\college project\azure project\source\repos\college project\bin\roslyn\vbc.exe.config
+D:\college project\azure project\source\repos\college project\bin\roslyn\vbc.rsp
+D:\college project\azure project\source\repos\college project\bin\roslyn\VBCSCompiler.exe
+D:\college project\azure project\source\repos\college project\bin\roslyn\VBCSCompiler.exe.config
+D:\college project\azure project\source\repos\college project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\college project\azure project\source\repos\college project\bin\Microsoft.AI.DependencyCollector.dll
+D:\college project\azure project\source\repos\college project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\college project\azure project\source\repos\college project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\college project\azure project\source\repos\college project\bin\Microsoft.AI.Web.dll
+D:\college project\azure project\source\repos\college project\bin\Microsoft.AI.WindowsServer.dll
+D:\college project\azure project\source\repos\college project\bin\Microsoft.ApplicationInsights.dll
+D:\college project\azure project\source\repos\college project\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\college project\azure project\source\repos\college project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\college project\azure project\source\repos\college project\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+D:\college project\azure project\source\repos\college project\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+D:\college project\azure project\source\repos\college project\bin\System.Buffers.dll
+D:\college project\azure project\source\repos\college project\bin\System.Diagnostics.DiagnosticSource.dll
+D:\college project\azure project\source\repos\college project\bin\System.Memory.dll
+D:\college project\azure project\source\repos\college project\bin\System.Numerics.Vectors.dll
+D:\college project\azure project\source\repos\college project\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\college project\azure project\source\repos\college project\bin\Microsoft.AI.DependencyCollector.pdb
+D:\college project\azure project\source\repos\college project\bin\Microsoft.AI.DependencyCollector.xml
+D:\college project\azure project\source\repos\college project\bin\Microsoft.AI.PerfCounterCollector.pdb
+D:\college project\azure project\source\repos\college project\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\college project\azure project\source\repos\college project\bin\Microsoft.AI.ServerTelemetryChannel.pdb
+D:\college project\azure project\source\repos\college project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\college project\azure project\source\repos\college project\bin\Microsoft.AI.Web.pdb
+D:\college project\azure project\source\repos\college project\bin\Microsoft.AI.Web.xml
+D:\college project\azure project\source\repos\college project\bin\Microsoft.AI.WindowsServer.pdb
+D:\college project\azure project\source\repos\college project\bin\Microsoft.AI.WindowsServer.xml
+D:\college project\azure project\source\repos\college project\bin\Microsoft.ApplicationInsights.pdb
+D:\college project\azure project\source\repos\college project\bin\Microsoft.ApplicationInsights.xml
+D:\college project\azure project\source\repos\college project\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\college project\azure project\source\repos\college project\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+D:\college project\azure project\source\repos\college project\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+D:\college project\azure project\source\repos\college project\bin\System.Buffers.xml
+D:\college project\azure project\source\repos\college project\bin\System.Diagnostics.DiagnosticSource.xml
+D:\college project\azure project\source\repos\college project\bin\System.Memory.xml
+D:\college project\azure project\source\repos\college project\bin\System.Numerics.Vectors.xml
+D:\college project\azure project\source\repos\college project\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\college project\azure project\source\repos\college project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\college project\azure project\source\repos\college project\obj\Debug\college project.csproj.AssemblyReference.cache
+D:\college project\azure project\source\repos\college project\obj\Debug\college project.csproj.CoreCompileInputs.cache
+D:\college project\azure project\source\repos\college project\obj\Debug\college project.csproj.CopyComplete
+D:\college project\azure project\source\repos\college project\obj\Debug\college project.dll
+D:\college project\azure project\source\repos\college project\obj\Debug\college project.pdb
